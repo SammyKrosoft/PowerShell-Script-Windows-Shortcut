@@ -30,6 +30,3 @@ Execute a script without loading profile script, which can be long if you have l
 
 %SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -noexit -NoProfile -ExecutionPolicy Bypass -File "D:\scripts\Launch-MyPowerShellScript.ps1"
 
-## Useful links
-
-[15 ways to bypass the PowerShell execution policy](https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/)
